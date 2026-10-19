@@ -32,7 +32,7 @@ const Footer = () => {
                     <div className="md:col-span-4">
                         <h4 className="font-bold text-slate-900 mb-6 text-sm uppercase tracking-widest">Contact</h4>
                         <ul className="space-y-4 text-base text-slate-500 font-medium">
-                            <li>GitHub: <span className="text-slate-900">github.com/boneguard-ai</span></li>
+                            {/* <li>GitHub: <span className="text-slate-900">github.com/boneguard-ai</span></li>*/}
                             <li>Email: <span className="text-slate-900">contact@boneguard.ai</span></li>
                         </ul>
                     </div>
