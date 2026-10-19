@@ -1,0 +1,8 @@
+node_modules/
+.venv/
+backend/venv/
+**/__pycache__/
+*.py[cod]
+backend/encrypted_uploads/
+frontend.log
+.env
