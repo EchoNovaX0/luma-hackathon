@@ -121,7 +121,7 @@ const PremiumPage = () => {
                             "Multi-doctor team access",
                             "Centralized patient data dashboard",
                             "Advanced diagnostic analytics",
-                            "Risk trend & patient monitoring",
+                            // "Risk trend & patient monitoring",
                             "Integration with hospital workflows",
                             "Downloadable clinical reports"
 
